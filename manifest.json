@@ -1,0 +1,21 @@
+{
+  "short_name": "GT.Code CAD",
+  "name": "GT.Code Analytic CAD v1.0.0",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0a0e27",
+  "background_color": "#0a0e27",
+  "orientation": "any"
+}
